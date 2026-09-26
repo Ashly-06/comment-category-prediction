@@ -104,10 +104,10 @@ The final predictions were converted back to the original category labels and sa
 comment-category-prediction/
 │
 ├── README.md
-├── Comment_Category_Prediction.ipynb
+├── Comment_category_Prediction_py.ipynb
 └── requirements.txt
 ```
 
 ## Notebook
 
-[View Complete Notebook](./Comment_Category_Prediction_py.ipynb)
+[View Complete Notebook](./Comment_category_Prediction_py.ipynb)
