@@ -1,6 +1,6 @@
 # Comment Category Prediction
 
-A multiclass text classification project for predicting comment categories using TF-IDF-based NLP features combined with structured comment-level features.
+A multiclass text classification project for predicting comment categories using TF-IDF-based NLP features combined with structured comment level features.
 
 ## Project Overview
 
