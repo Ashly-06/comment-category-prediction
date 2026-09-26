@@ -42,9 +42,9 @@ All EDA visualizations and their interpretations are available directly in the p
 
 The following features were created and used during modeling:
 
-- `comment_length` – character length of each comment
-- `vote_diff` – difference between upvotes and downvotes
-- `vote_ratio` – upvotes relative to downvotes
+- `comment_length` : character length of each comment
+- `vote_diff` : difference between upvotes and downvotes
+- `vote_ratio` : upvotes relative to downvotes
 
 ### Text Features
 
@@ -110,4 +110,4 @@ comment-category-prediction/
 
 ## Notebook
 
-[View Complete Notebook](./Comment_Category_Prediction.ipynb)
+[View Complete Notebook](./Comment_Category_Prediction_py.ipynb)
