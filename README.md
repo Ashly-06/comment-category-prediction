@@ -16,11 +16,7 @@ The workflow includes exploratory data analysis, feature engineering, TF-IDF tex
 - Evaluation Metric: Macro F1 Score
 - Source: Kaggle Comment Category Prediction Challenge
 
-### Kaggle Competition
-
-[View Kaggle Competition / Dataset](https://www.kaggle.com/competitions/comment-category-prediction-challenge)
-
-> The dataset is not included in this repository. Please use the Kaggle competition link above to access the original data.
+This project was completed as part of the Machine Learning Practice coursework in the IIT Madras BS in Data Science and Applications program, using the Comment Category Prediction Challenge as the project problem statement.
 
 ## Exploratory Data Analysis
 
